@@ -1,4 +1,4 @@
-import { MapPin, Mail, Smartphone } from 'lucide-react';
+import { MapPin, Mail, Smartphone } from "lucide-react";
 
 export function Footer() {
   return (
@@ -10,7 +10,8 @@ export function Footer() {
             <span className="text-2xl font-bold">Bazaaro</span>
           </div>
           <p className="text-gray-400 max-w-md mx-auto">
-            Connecting local shoppers with nearby stores for a better shopping experience.
+            Connecting local shoppers with nearby stores for a better shopping
+            experience.
           </p>
         </div>
 
@@ -40,7 +41,7 @@ export function Footer() {
 
         <div className="text-center mt-12 pt-8 border-t border-gray-800">
           <p className="text-gray-400 text-sm">
-            © 2024 Bazaaro. All rights reserved. Coming soon to your city.
+            © 2025 Bazaaro. All rights reserved. Coming soon to your city.
           </p>
         </div>
       </div>
