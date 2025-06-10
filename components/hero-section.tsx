@@ -154,6 +154,13 @@ export function HeroSection() {
                   </div>
                 </div>
 
+                {/* Watermark Text */}
+                <div className="bg-gray-100 py-2 px-4 text-center border-b border-gray-200">
+                  <span className="text-sm font-bold text-gray-600">
+                    DEMO INTERFACE - NOT ACTUAL UI
+                  </span>
+                </div>
+
                 {/* App Header */}
                 <div className="bg-gradient-to-r from-blue-600 to-orange-500 px-6 py-4 text-white">
                   <div className="flex items-center justify-between">
